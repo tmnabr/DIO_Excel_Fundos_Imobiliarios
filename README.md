@@ -12,6 +12,6 @@ Respositório para armazenar o Desafio de Projeto Criando uma Ferramenta de Cont
 
 
 
-## Autores
+## Autora
 
 - [@tmnabr](https://www.github.com/tmnabr)
